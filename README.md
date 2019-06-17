@@ -8,7 +8,7 @@
 <b>1:</b> MVC<br>
 <br>
 <b>Project Setup Process:</b>
-<p>First of all start <b>xampp server,</b> than open phpmyadmin panel and import database ttms.sql from<a href="https://github.com/AhsanSheraz/Time-Table-Management-System/tree/Database"> Database folder,</a> than copy the project parent diectory in C://xampp/htdocs after that open your browser and type localhost or 127.0.0.1 and hit enter than click on project name.</p><br>
+<p>First of all start <b>xampp server,</b> than open phpmyadmin panel and import database ttms.sql from<a href="https://github.com/AhsanSheraz/Time-Table-Management-System/tree/master/Database"> Database folder,</a> than copy the project parent diectory in C://xampp/htdocs after that open your browser and type localhost or 127.0.0.1 and hit enter than click on project name.</p><br>
 <br>
 <b>Project Description:</b>
 <p>This project is developed to manage Time Table of Computer Science department of Quaid-I-Azam University.<br>
