@@ -26,3 +26,13 @@ Students can view current Timetable and receive messages from admin.<br>
   System will also be able to maintain the recorde of acknowledgement of timetable and messages (that teachers and students viewed or seen the message or timetable).<br>
   We will also add the functionaly of assigments submission and reviews on assignments and subject grades.
 </p><br>
+<b>By default <a href="#ad">admin</a> email:</b><br>
+<p>ahsansheraz@outlook.com</p><br>
+<b>By default <a href="#te">teacher</a> email:</b><br>
+<p>jamshaid@gmail.com</p><br>
+<b>By default <a href="#st">student</a> email:</b><br>
+<p>ahsansheraz250@gmail.com</p><br>
+<b>By default password for all:</b><br>
+<p>ahsan123</p><br>
+
+
